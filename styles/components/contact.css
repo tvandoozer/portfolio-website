@@ -19,6 +19,11 @@
   max-width: 60ch;
 }
 
+.contact-info {
+  font-size: var(--size-base);
+  color: var(--clr-slate400);
+}
+
 .contact__btn {
   font-size: var(--size-sm);
 }
